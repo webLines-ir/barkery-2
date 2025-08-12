@@ -85,7 +85,7 @@ export default function Home() {
         {/* Hero Background Image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="/public/images/aramesh.jpeg"
+            src="/barkery-2/images/aramesh.jpeg"
             alt="نمای ویترین نانوایی مدرن با نان‌های تازه"
             fill
             className="object-cover"
@@ -148,7 +148,7 @@ export default function Home() {
             <div className="relative">
               <div className="w-full h-96 bg-gradient-to-br from-zinc-800 to-zinc-700 rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-500 overflow-hidden">
                 <Image
-                  src="https://images.pexels.com/photos/4109743/pexels-photo-4109743.jpeg"
+                  src="/barkery-2/images/1.jpeg"
                   alt="نان‌پز در حال کار"
                   fill
                   className="object-cover opacity-80"
@@ -290,7 +290,7 @@ export default function Home() {
               <div className="space-y-6">
                 <div className="bg-zinc-800/50 p-6 rounded-lg border border-zinc-700/50">
                   <p className="text-zinc-300 mb-4 italic">
-                    "هر روز صبح، عطر نان تازه آرامش مرا به خانه دوم من می‌کشاند. این‌جا واقعاً احساس تعلق می‌کنم."
+                    &quot;هر روز صبح، عطر نان تازه آرامش مرا به خانه دوم من می‌کشاند. این‌جا واقعاً احساس تعلق می‌کنم.&quot;
                   </p>
                   <div className="flex items-center">
                     <div className="w-10 h-10 bg-amber-200/20 rounded-full flex items-center justify-center ml-3">
@@ -302,7 +302,7 @@ export default function Home() {
                 
                 <div className="bg-zinc-800/50 p-6 rounded-lg border border-zinc-700/50">
                   <p className="text-zinc-300 mb-4 italic">
-                    "کیفیت نان‌ها فوق‌العاده است. انگار مادربزرگم پخته! طعم اصیل و خانگی."
+                    &quot;کیفیت نان‌ها فوق‌العاده است. انگار مادربزرگم پخته! طعم اصیل و خانگی.&quot;
                   </p>
                   <div className="flex items-center">
                     <div className="w-10 h-10 bg-amber-200/20 rounded-full flex items-center justify-center ml-3">
