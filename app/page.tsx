@@ -85,7 +85,7 @@ export default function Home() {
         {/* Hero Background Image */}
         <div className="absolute inset-0 z-0">
           <Image
-            src="https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg"
+            src="/images/aramesh.jpeg"
             alt="نمای ویترین نانوایی مدرن با نان‌های تازه"
             fill
             className="object-cover"
